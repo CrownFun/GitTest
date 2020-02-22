@@ -2,6 +2,7 @@ package git;
 
 public class Git1 {
 
+    private static String name = "Java";
 
     private static int add(int a, int b) {
         return a + b;
@@ -18,5 +19,9 @@ public class Git1 {
 
         System.out.println("Dupa jasio");
         System.out.println("java Code");
+        System.out.println(name);
     }
+
+
+
 }
