@@ -15,6 +15,10 @@ public class Git1 {
     private static int multiply(int a, int b) {
         return a * b;
     }
+
+    private void cahange(){
+        name.toUpperCase();
+    }
     public static void main(String[] args) {
 
         System.out.println("Dupa jasio");
