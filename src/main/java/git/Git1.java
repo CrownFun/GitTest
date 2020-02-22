@@ -18,7 +18,7 @@ public class Git1 {
 
         System.out.println("Dupa jasio");
         System.out.println("java Code");
- 
+        System.out.println("sex education seaeso 3");
     }
 
 
